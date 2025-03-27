@@ -37,7 +37,7 @@ The **HAM10000 dataset** consists of 10,015 labeled skin lesion images across(ht
 ### Setup
  **Clone the repository**
    ```sh
-   git clone https://github.com/your-username/ham10000-skin-cancer-ensemble-classifier.git
+   git clone https://github.com/anandafc/ham10000-skin-cancer-ensemble-classifier.git
    cd ham10000-skin-cancer-ensemble-classifier
    ```
 
